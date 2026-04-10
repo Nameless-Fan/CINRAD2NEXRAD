@@ -6,18 +6,18 @@ Author: bo_fan@qq.com
 Version: 2026-Apr-10 v1.1  
         
 
--What can it do?
+-What can it do?  
 1. read CINRAD/NEXRAD II raw data
 2. convert CINRAD format to NEXRAD format
 3. plot radar map
 
--How to use it?
+-How to use it?  
 all modules is <class> or <function> of detailed annotation
 
--PS
+-PS  
 Thanks for any bug report! 
 
--Reference
+-Reference  
 [1] https://www.cma.gov.cn/zfxxgk/gknr/flfgbz/bz/202307/t20230712_5642881.html  
 [2] pyart.io.nexrad_level2  
 [3] cinrad.io.StandardData  
