@@ -1,9 +1,9 @@
 # CINRAD2NEXRAD
 This repository provides a Python package "met_radar" that enables CINRAD radar data to be used in tools like GR2Analyst and ARM Py-ART by converting it to the NEXRAD Level 2 format.
 
-Script: met_radar, radar read/write/plot python toolbox
-Author: bo_fan@qq.com
-Version: 2026-Apr-10 v0.1
+Script: met_radar, radar read/write/convert python toolbox  
+Author: bo_fan@qq.com  
+Version: 2026-Apr-10 v0.1  
         
 
 -What can it do?
