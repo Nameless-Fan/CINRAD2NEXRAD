@@ -1,9 +1,0 @@
-README.txt
-setup.py
-met_radar.egg-info/PKG-INFO
-met_radar.egg-info/SOURCES.txt
-met_radar.egg-info/dependency_links.txt
-met_radar.egg-info/top_level.txt
-tool/__init__.py
-tool/cappi.py
-tool/pcolor.py
